@@ -79,7 +79,7 @@ function EditProduct(props) {
             <div className="col-lg-12">
               <input
                 type="submit"
-                value="Create Product"
+                value="Update Product"
                 className="btn btn-primary mt-3"
               />
             </div>
